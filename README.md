@@ -27,7 +27,7 @@ If your WordPress site has caching, and you bundle and minify your JS and CSS fi
 
 ## 1. Background
 
-:info: If you don't need an intro to caching, webpack and enqueuing files in WordPress, skip ahead to [What's in the project](#2-whats-in-the-project).
+If you don't need an intro to caching, webpack and enqueuing files in WordPress, skip ahead to [What's in the project](#2-whats-in-the-project).
 
 ### i. Caching and cache-busting
 

@@ -39,3 +39,7 @@ If your WordPress site has caching, and you bundle and minify your JS and CSS fi
    ```
    
    This will process the JS and SCSS files in the `assets` folder and output three files into a new `dist` folder.
+   
+   ![dist](assets/img/files.png)
+   
+   <img src="https://github.com/andfinally/webpack-asset-map/raw/main/assets/img/files.png" width="250" />

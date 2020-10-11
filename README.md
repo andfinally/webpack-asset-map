@@ -2,9 +2,7 @@
 
 webpack plugin that generates a map of assets with hashed filenames, WordPress utility for enqueuing those files, and WordPress theme demonstrating how to use them.
 
-<img src="https://github.com/andfinally/webpack-asset-map/raw/main/assets/img/clipperton-island.png" width="320" />
-
-Clipperton Island, [Wikipedia](https://en.wikipedia.org/wiki/File:Ile_de_Clipperton_(carte-en).svg)
+<img src="https://github.com/andfinally/webpack-asset-map/raw/main/assets/img/clipperton-island.png" width="480" />
 
 ## tl;dr
 

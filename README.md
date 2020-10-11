@@ -177,3 +177,5 @@ wp_enqueue_style(
     get_stylesheet_directory_uri() . '/dist/' . Built_Assets::get_hashed_filename( 'bundle.min.css' )
 );
 ```
+
+[Table of Contents](#table-of-contents)

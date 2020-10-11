@@ -1,7 +1,7 @@
 const path = require( 'path' );
 const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
 const { CleanWebpackPlugin } = require( 'clean-webpack-plugin' );
-const OutputMapPlugin = require( './webpack-plugin-outputmap' );
+const OutputMapPlugin = require( './webpack-plugin-asset-map' );
 
 module.exports = {
 

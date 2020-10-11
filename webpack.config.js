@@ -1,7 +1,7 @@
 const path = require( 'path' );
 const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
 const { CleanWebpackPlugin } = require( 'clean-webpack-plugin' );
-const OutputMapPlugin = require( './webpack-plugin-asset-map' );
+const AssetMapPlugin = require( './webpack-plugin-asset-map' );
 
 module.exports = {
 
@@ -60,7 +60,7 @@ module.exports = {
 		new MiniCssExtractPlugin( {
 			filename: 'bundle.[contenthash].min.css'
 		} ),
-		new OutputMapPlugin(),
+		new AssetMapPlugin(),
 	],
 
 	watch: true,

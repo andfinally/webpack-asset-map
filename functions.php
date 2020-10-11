@@ -1,6 +1,6 @@
 <?php
 
-require_once './class.built-assets.php';
+require_once 'class-built-assets.php';
 
 add_action( 'wp_enqueue_scripts', 'enqueue_assets' );
 

@@ -2,6 +2,10 @@
 
 webpack plugin that generates a map of assets with hashed filenames, WordPress utility for enqueuing those files, and WordPress theme demonstrating how to use them.
 
+<img src="https://github.com/andfinally/webpack-asset-map/raw/main/assets/img/clipperton-island.png" width="320" />
+
+Clipperton Island, [Wikipedia](https://en.wikipedia.org/wiki/File:Ile_de_Clipperton_(carte-en).svg)
+
 ## tl;dr
 
 If your WordPress site has caching, and you bundle and minify your JS and CSS files with [webpack](https://webpack.js.org/), this plugin helps you give users the latest version of the files without bothering about version numbers.
